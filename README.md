@@ -2,7 +2,11 @@
 
 
 <h2>Description</h2>
-How I created an Active Directory home lab environment using Oracle VirtualBox. Configuring and running this lab helped me develop my understanding on active directory and windows networking. 
+To deepen my understanding of Active Directory and Windows networking, I set up a home lab environment using Oracle VirtualBox. In this lab, I created a virtual network with multiple virtual machines, including a domain controller, member servers, and client machines.<br />
+<br />
+I installed Windows Server on the domain controller and configured it with Active Directory Domain Services (AD DS). This included setting up a domain, creating and managing user accounts, and configuring Group Policy settings. The member servers and client machines were joined to the domain, enabling me to simulate and test various network scenarios and administrative tasks.<br />
+<br />
+Through this hands-on experience, I gained practical knowledge in deploying and managing Active Directory environments, understanding domain structures, and configuring network services and security policies. This lab setup provided a solid foundation for further exploration of Windows networking concepts and Active Directory management.. 
 <br />
 
 
